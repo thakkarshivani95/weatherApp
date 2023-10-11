@@ -37,3 +37,12 @@ Run Tests
 1. npm test
 
 
+Screenshots
+
+![Screen Shot 2023-10-10 at 8 24 04 PM](https://github.com/thakkarshivani95/weatherApp/assets/147298769/16019fc3-6eee-4218-92c1-4689100c0511)
+
+
+![Screen Shot 2023-10-10 at 8 26 21 PM](https://github.com/thakkarshivani95/weatherApp/assets/147298769/4555cb90-0ac8-44b4-8123-bbeffc793dce)
+
+![Screen Shot 2023-10-10 at 8 26 38 PM](https://github.com/thakkarshivani95/weatherApp/assets/147298769/4c77a87f-43a2-4189-b052-15e9e5194209)
+
